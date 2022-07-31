@@ -1,15 +1,15 @@
 {
-  "botToken": "MTAwMzE5NTY5NDM4MDc1NzA1Mg.GgXduI.j_XgRdVA9prX8tIaxOtqVdsdB4zPjkdqZT-kKI",
-  "botStatus": "discord-test-bot",
-  "botPrefix": ".",
+  "botToken": "enter_your_token_here",
+  "botStatus": "enter_the_activity_message_you_want_for_example_ilikecats",
+  "botPrefix": "enter_your_prefix",
   "onreadyMessageCheck": "True",
-  "onreadyMessage": "I am now online",
+  "onreadyMessage": "enter_your_on_ready_message_in_terminal",
   "errorMessageCheck": "True",
-  "errorMessage": "Sorry, there seems to be an error!",
-  "commandOnePrompt": "help",
-  "commandOneResponse": "This is COMING SOON!",
-  "commandTwoPrompt": "julia",
-  "commandTwoResponse": "god shes so hot",
-  "commandThreePrompt": "lol",
-  "commandThreeResponse": "LAUGH"
+  "errorMessage": "enter_your_error_message_for_terminal",
+  "commandOnePrompt": "enter_your_command_one_prompt",
+  "commandOneResponse": "enter_your_command_one_response",
+  "commandTwoPrompt": "enter_your_command_two_prompt",
+  "commandTwoResponse": "enter_your_command_two_response",
+  "commandThreePrompt": "enter_your_command_three_prompt",
+  "commandThreeResponse": "enter_your_command_three_response"
 }
