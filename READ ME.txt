@@ -1,0 +1,13 @@
+Hello! Thankyou for using my sample-discord-bot.
+
+To use this bot, please adjust all variables in var.json.
+
+Within the var.json file, there may be a variable ending in "Check". If you want this variable
+to happen, keep the variable as "True". If you dont want the variable, set it to "False".
+
+the "command" variables are needed to tell the bot what commands you want.
+
+If the variable ends in "Prompt", this variable is the command that users will enter
+such as "help".
+
+If the variable ends in "Response", this variable is the bots response to the command

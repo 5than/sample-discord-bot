@@ -1,0 +1,15 @@
+{
+  "botToken": "MTAwMzE5NTY5NDM4MDc1NzA1Mg.GgXduI.j_XgRdVA9prX8tIaxOtqVdsdB4zPjkdqZT-kKI",
+  "botStatus": "discord-test-bot",
+  "botPrefix": ".",
+  "onreadyMessageCheck": "True",
+  "onreadyMessage": "I am now online",
+  "errorMessageCheck": "True",
+  "errorMessage": "Sorry, there seems to be an error!",
+  "commandOnePrompt": "help",
+  "commandOneResponse": "This is COMING SOON!",
+  "commandTwoPrompt": "julia",
+  "commandTwoResponse": "god shes so hot",
+  "commandThreePrompt": "lol",
+  "commandThreeResponse": "LAUGH"
+}
